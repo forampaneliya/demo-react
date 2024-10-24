@@ -1,0 +1,29 @@
+.sidebar-main {
+    width: 20%;
+    background-color: white;
+    margin-top: -15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 30px 10px;
+    height: auto;
+    position: fixed;
+    overflow-y: scroll;
+    top: 110px;
+    bottom: 0;
+
+}
+
+.sidebar-menu ul li a {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(118, 113, 113);
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+ul li a {
+    list-style: none;
+    text-decoration: none;
+
+
+}
